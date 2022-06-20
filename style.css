@@ -1,0 +1,60 @@
+.form{
+	width: 500px;
+	height: 350px;
+	background: #ADD8E6;
+	border: 2px solid #0000FF;
+}
+
+h1{
+	font: 40px Arial;
+	color:  #ffffff;
+	padding-left: 5%;
+	padding-top: 5%;
+	padding-bottom: 3%;
+	margin: 0px;
+}
+
+p{
+
+	font: 25px Arial;
+	color:  #ffffff;
+	margin: 0px;
+	padding-top: 5%;
+
+}
+
+.reg{
+	border-bottom: 1px solid #808080;
+	padding-top: 0px;
+}
+
+.input_form{
+	border-top: 1px solid #ffffff;
+	padding-left: 5%;
+	padding-right: 10%;
+	}
+	
+input{
+	width: 100%;
+	box-sizing: border-box;
+}
+.email{
+	padding-bottom: 3%;
+}
+.pass{
+float: left;
+width: 47%;
+
+}
+
+.pass_again{
+float: right;
+width: 47%;
+}
+
+button{
+	margin-top:7%;
+	background: #FFE5B4;
+	border-width: thin;
+	padding:1.5%;
+}
